@@ -1,0 +1,5 @@
+test/TestAddition.c:22:test_Add:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
